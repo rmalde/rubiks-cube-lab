@@ -1,0 +1,1 @@
+{"name":"cube-arena","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.mjs","build":"esbuild web/main.js --bundle --format=esm --outfile=public/app.js","test":"node --test test/*.test.mjs","verify":"node verify-results.mjs"},"dependencies":{"three":"0.180.0"},"devDependencies":{"esbuild":"0.25.10"}}

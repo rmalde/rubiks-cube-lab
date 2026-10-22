@@ -1,0 +1,14 @@
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+.local/
+**/data/
+**/artifacts/
+**/runtime/cube_states.json
+*.log
+results.csv
+.DS_Store
